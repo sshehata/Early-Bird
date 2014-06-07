@@ -70,5 +70,9 @@ public class Alarm{
 		alarmCopy.type = type;
 		alarmCopy.ignoreMuted = ignoreMuted;
 	}
+	 
+	public String getName() {
+		return name;
+	}
 
 }

@@ -1,0 +1,12 @@
+package engine;
+
+import android.app.Application;
+
+public class App extends Application{
+	
+	@Override
+	public void onCreate() {
+		//TODO: make dreams and alarms folder
+		
+	}
+}

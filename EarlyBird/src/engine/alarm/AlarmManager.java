@@ -1,5 +1,6 @@
 package engine.alarm;
 
+import java.util.Iterator;
 import java.util.LinkedList;
 
 /**
@@ -26,5 +27,9 @@ public class AlarmManager {
 	
 	public void duplicateAlarm(int i) {
 		alarms.add(alarms.get(i));
+	}
+	
+	public Iterator<Alarm> getIterator() {
+		return alarms.iterator();
 	}
 }
