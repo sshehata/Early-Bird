@@ -1,0 +1,5 @@
+- use mic
+- use storage
+- use internet
+- widget
+- use gps

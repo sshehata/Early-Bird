@@ -1,0 +1,44 @@
+Main Attraction 1:
+- Play game when you press snooze or stop
+- eggs and chick, mix the eggs and find the chick
+- number of losses before auto snooze
+- hold main button for bybass
+- show tips until checks "dont show again"
+- game difficulty
+// no need for permission
+// set flag: show_when_locked
+
+Main Attraction 2:
+- Dream diary
+- choose input by voiR or text
+- voice says : "tell me about ur dreams"
+- folder: keep dreams
+- options: delete
+- view dreams
+- share on social media
+
+Extra Features
+- default snooze sound: use more aggressive tone every time
+- Random Alarm tone
+- Alarm tone volume gradually increases
+- unlimited alarms
+- option: ignore phone volume including muted // store old volume, change volume
+					      // reset volume
+- timer alarm
+- date alarm, option: repeatable
+- turn alarm on/off and ask "once or forever"
+- option: shake to snooze
+- sound or vibrate
+- location alarm
+- Naming alarm
+- number of snoozes before cancel
+- snooze duration
+- set home location
+- multiple tones
+- duplicate alarm
+- auto snooze
+
+Widget
+- Display alarm time
+- Display on/off
+- open app
